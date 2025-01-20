@@ -1,4 +1,0 @@
-rootProject.name = 'Airbnb-project'
-include ':FrameWBase'
-project(':FrameWBase').projectDir = file('C:\\Users\\isaac\\Documents\\EXTERN_PROJECTS\\Test\\FrameWBase')
-
